@@ -3,7 +3,7 @@
 A simple bank application with a graphical user interface developed in Java using the Swing framework.
 
 <p align="center">
-  <img src="https://github.com/curadProgrammer/BankAppJava/blob/main/Screenshot_16.png" alt="Bank System Screenshot">
+  <img src="https://github.com/Alamin1717/Banking-System/blob/main/BankSystem.jpg" alt="Bank System Screenshot">
 </p>
 
 ## Features
