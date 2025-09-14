@@ -1,31 +1,21 @@
-# Bank App with Swing and MySQL
+# Banking System
 
-A simple bank application with a graphical user interface developed in Java using the Swing framework. The application interacts with a MySQL database to perform essential banking operations.
-You can watch this video where I build this app from the ground up so that you can get a better understanding of how it works: https://www.youtube.com/watch?v=phYuQWRaazw&t=1s
+A simple bank application with a graphical user interface developed in Java using the Swing framework.
 
 ## Features
 
-1. **Logging into an Account**: Users can log in using their credentials.
+1. **Create Account**: New users can register for a bank account.
 
-2. **Registering an Account**: New users can register for a bank account.
+2. **Deposit**: Users can deposit funds into their accounts.
 
-3. **Depositing Balance**: Users can deposit funds into their accounts.
+3. **Withdraw**: Users can withdraw funds from their accounts.
 
-4. **Withdrawing Balance**: Users can withdraw funds from their accounts.
+4. **Check Balance**: View the current account balance.
 
-5. **Checking Balance**: View the current account balance.
+5. **View Transactions**: Access a history of past transactions.
 
-6. **Logging Out**: Securely log out of the account.
-
-7. **Viewing Past Transactions**: Access a history of past transactions.
-
-8. **Transferring to Users within the MySQL Database**: Users can transfer funds to other registered users.
-
-<p align="center">
-  <img src="https://github.com/curadProgrammer/BankAppJava/blob/main/Screenshot_16.png" alt="Bank App Screenshot">
-</p>
 
 ### Technologies
 
 - Java Development Kit (JDK18)
-- MySQL Database
+- Java Swing (GUI)
